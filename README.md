@@ -1,1 +1,0 @@
-# practica-logica-y-estructuras
